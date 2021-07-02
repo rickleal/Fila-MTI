@@ -1,5 +1,6 @@
 # Rick Leal
 
+  #opcional
   if __name__ == '__main__':
 
   while True:
@@ -19,4 +20,3 @@
 
       print("Discarded cards: " + str(resultado).replace("[","").replace("]",""))
       print("Remaining card: " + str(inicial[0]))
-      
