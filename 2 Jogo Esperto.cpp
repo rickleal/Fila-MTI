@@ -1,4 +1,4 @@
-#code base - RICK LEAL
+// code base - RICK LEAL
 
 
 #include <bits/stdc++.h>
